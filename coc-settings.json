@@ -1,0 +1,10 @@
+{
+    "coc.preferences.extensionUpdateCheck": "never",
+    "coc.preferences.hoverTarget": "float",
+    "diagnostic.messageTarget": "float",
+    "signature.target": "float",
+    "flutter.trace.server": true,
+    "flutter.enabled": true,
+    "flutter.lsp.debug": true,
+    "flutter.lsp.initialization.closingLabels": true
+}
